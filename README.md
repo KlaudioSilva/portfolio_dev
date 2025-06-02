@@ -2,7 +2,7 @@
 
 [![GitHub Pages](https://img.shields.io/badge/online-portfolio-blue?logo=github)](https://klaudiosilva.github.io/portfolio_dev/)
 
-![Preview do Portfólio](./preview.png)
+![Preview do Portfólio](./img/preview.png)
 
 Oi, eu sou o Klaudoi! 👋 Seja bem-vindo(a) ao repositório do meu portfólio pessoal.
 
