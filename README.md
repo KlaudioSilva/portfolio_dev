@@ -27,7 +27,7 @@ Desenvolvi meu portfólio com essas tecnologias (basicão e funcional):
 
 Você pode acessar meu portfólio online clicando no link abaixo:
 
-🔗 [klaudiosilva.github.io/portfolio_dev](https://klaudiosilva.github.io/portfolio_dev/#portfolio)
+🔗 [klaudiosilva.github.io/portfolio_dev](https://klaudiosilva.github.io/portfolio_dev/#inicio)
 
 Ou, se preferir, clone o repositório e abra o arquivo `index.html` no navegador:
 
