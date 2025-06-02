@@ -10,7 +10,7 @@ Pode até ser clichê dizer isso, mas.. Sim, sou um desenvolvedor front-end apai
 
 ## 🛠 Tecnologias
 
-Meu portfólio foi desenvolvido com:
+Desenvolvi meu portfólio com essas tecnologias (basicão e funcional):
 
 - HTML5  
 - CSS3  
