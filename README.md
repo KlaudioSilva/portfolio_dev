@@ -2,15 +2,15 @@
 
 [![GitHub Pages](https://img.shields.io/badge/online-portfolio-blue?logo=github)](https://klaudiosilva.github.io/portfolio_dev/)
 
-![Preview do Portfólio](.img/preview.png)
+![Preview do Portfólio](./preview.png)
 
-Olá! 👋 Seja bem-vindo(a) ao repositório do meu portfólio pessoal.
+Oi, eu sou o Klaudoi! 👋 Seja bem-vindo(a) ao repositório do meu portfólio pessoal.
 
-Sou um desenvolvedor front-end apaixonado por transformar ideias em interfaces interativas. Gosto de criar soluções simples, responsivas e eficientes. Estou sempre explorando novas tecnologias e buscando evoluir como profissional e como pessoa.
+Pode até ser clichê dizer isso, mas.. Sim, sou um desenvolvedor front-end apaixonado por transformar ideias em interfaces interativas. Pra mim é muito prazeroso criar soluções simples, responsivas e eficientes. E como não poderia deixar de ser, estou sempre explorando novas tecnologias e buscando evoluir como profissional e como pessoa.
 
 ## 🛠 Tecnologias
 
-Este portfólio foi desenvolvido com:
+Meu portfólio foi desenvolvido com:
 
 - HTML5  
 - CSS3  
