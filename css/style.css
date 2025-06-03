@@ -610,12 +610,12 @@ footer span{
     #sobre img{
         width: 300px;
     }
-
+    /*
     #sobre .txt-sobre{
         width: 300px;
         margin-top: 2.2rem;
         text-align: justify;
-    }
+    }*/
 
     /*reajuste nas barras de decoração dos títulos das seções*/
     .titulo::before{
