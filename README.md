@@ -4,7 +4,7 @@
 
 ![Preview do Portfólio](./img/preview.png)
 
-Oi, eu sou o Klaudoi! 👋 Seja bem-vindo(a) ao repositório do meu portfólio pessoal.
+Oi, eu sou o Klaudio! 👋 Seja bem-vindo(a) ao repositório do meu portfólio pessoal.
 
 Pode até ser clichê dizer isso, mas.. Sim, sou um desenvolvedor front-end apaixonado por transformar ideias em interfaces interativas. Pra mim é muito prazeroso criar soluções simples, responsivas e eficientes. E como não poderia deixar de ser, estou sempre explorando novas tecnologias e buscando evoluir como profissional e como pessoa.
 
